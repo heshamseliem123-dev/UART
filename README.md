@@ -1,4 +1,4 @@
-# UART Transmitter / Receiver — ASIC Front-End Design Diploma
+# UART Transmitter / Receiver 
 
 RTL design + verification + lint for a configurable UART TX/RX block.
 

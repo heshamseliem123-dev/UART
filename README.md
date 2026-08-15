@@ -38,7 +38,7 @@ Result: 0 errors, 0 warnings.
 
 ## UART_RX
 
-🚧 Not started yet — will detect start bit, sample 8 data bits, check parity/stop, flag framing errors. Details to be added once implemented.
+in progress and almost done
 
 ---
 
